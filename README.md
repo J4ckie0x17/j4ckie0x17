@@ -1,10 +1,10 @@
-<p>      </p> <img src="https://github.com/J4ckie0x17/j4ckiewhoami/blob/f11b5e8cdc2dc55aaf0c5eb1262bd9aaad6987e7/icono.PNG" height="200" width="200" />
+<p>      </p>  <img src="https://github.com/J4ckie0x17/j4ckie0x17/blob/0ad06294b4281e6cfe26abbd7364ae245c1425ad/banner.PNG" alignheight="300" width="650" />
 
 
 ### I'm a Sysadmin and a Cybersecurity Enthusiast
 - CTF Player in HackTheBox & TryHackMe & PicoCTF
-- Changing my carrer to Cybersecurity
 - eJPTv2 in progress
+- I have my Cybersecurity Notes in a<a href="https://j4ckie0x17.gitbook.io/notes-pentesting/"> Gitbook</a> check it out if you want!
 
 ### Languages
 - Bash
