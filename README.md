@@ -1,4 +1,4 @@
-<p>      </p>  <img src="https://github.com/J4ckie0x17/j4ckie0x17/blob/092f5501993840fd01df18d9be4c0332e841b9de/fondo%20twitch.png" alignheight="650" width="650" />
+<p>      </p>  <img src="https://github.com/J4ckie0x17/j4ckie0x17/blob/092f5501993840fd01df18d9be4c0332e841b9de/fondo%20twitch.png" alignheight="1000" width="1000" />
 
 
 ### I'm a Sysadmin and a Cybersecurity Enthusiast
