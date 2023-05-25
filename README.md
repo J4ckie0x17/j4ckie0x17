@@ -3,7 +3,7 @@
 
 ### I'm a Sysadmin and a Cybersecurity Enthusiast
 - CTF Player in HackTheBox & TryHackMe & VulnHub
-- eJPTv2 in progress
+- Certified in eJPTv2
 - I have my Cybersecurity Notes in a<a href="https://j4ckie0x17.gitbook.io/notes-pentesting/"> Gitbook</a> check it out if you want!
 
 ### Languages
