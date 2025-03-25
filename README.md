@@ -1,7 +1,7 @@
 <p>      </p>  <img src="https://github.com/J4ckie0x17/j4ckie0x17/blob/092f5501993840fd01df18d9be4c0332e841b9de/fondo%20twitch.png" alignheight="1000" width="1000" />
 
 
-### I'm a Sysadmin and a Cybersecurity Enthusiast
+### I'm a Pentester
 - CTF Player in HackTheBox & TryHackMe & VulnHub
 - Certified eJPTv2 & eCPPTv2
 - I have my Cybersecurity Notes in a<a href="https://j4ckie0x17.gitbook.io/notes-pentesting/"> Gitbook</a> check it out if you want!
